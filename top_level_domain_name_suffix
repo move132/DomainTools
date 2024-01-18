@@ -11,7 +11,7 @@ as=whois.nic.as=NOT FOUND=
 at=whois.nic.at=othing found=
 au=whois.audns.net.au=No Data Found=
 be=whois.dns.be=AVAILABLE=
-//ai=whois.ai=not registered=
+ai=whois.nic.ai=not registered=
 ar=whois.nic.ar=dominio no se=
 aw=whois.nic.aw=is free=
 ax=whois.ax=Domain not found=
@@ -46,6 +46,7 @@ cx=whois.nic.cx=No Object Found=
 cy=whois.ripe.net=No entries found=
 cz=whois.nic.cz=o entries found=
 de=whois.nic.de=Status: free=
+dev=whois.nic.google=ot found=
 dk=whois.dk-hostmaster.dk=o entries found=
 dm=whois.nic.dm=ot found=
 do=whois.nic.do=No Object Found=
@@ -83,6 +84,7 @@ il=whois.isoc.org.il=o data was found=
 im=whois.nic.im=ot found=
 in=whois.inregistry.in=NOT FOUND=
 info=whois.afilias.info=NOT FOUND=
+ing=whois.nic.google=NOT FOUND=
 int=whois.iana.org=this server does not have=
 io=whois.nic.io=available=
 iq=whois.cmc.iq=No Object Found=
@@ -108,6 +110,7 @@ ly=whois.nic.ly=Not found=
 ma=whois.iam.net.ma=No Object Found=
 md=whois.nic.md=No match for=
 me=whois.nic.me=NOT FOUND=
+meme=whois.nic.google=NOT FOUND=
 mg=whois.nic.mg=No Object Found=
 mk=whois.marnet.mk=No entries found=
 ml=whois.dot.ml=ot known=
